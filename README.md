@@ -1,4 +1,4 @@
-"# Atom" 
+
 
 Atom is intended for beginners who wish to create electronic music soundtracks. The system provides a vocal track that you can start and stop using voice commands (think of the Amazon Echo), and your role is to create the background track behind the vocal track. In order to do this, the system has several sound effect objects which you can place in 3D space in order to determine a sound effect's volume and time/frequency at which it is played. 
 
@@ -40,3 +40,4 @@ In order to switch modes, use voice commands. Voice commands/modes correspond to
 
 Regardless of mode, you can grab and place sound effects on frequency orbitals.  Different orbitals play sound objects at different frequencies; you can see the frequency at which an orbital plays a sound by watching the spinning blue dots. You can control a sound effect's volume by bringing it closer to you or farther from you (changing it's Z value); moving it on the X/Y plane changes its location on the X/Y plane of the interface.
 __________________________
+
